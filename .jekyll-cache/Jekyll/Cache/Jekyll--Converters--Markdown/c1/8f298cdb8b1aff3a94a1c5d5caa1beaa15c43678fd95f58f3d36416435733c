@@ -1,0 +1,75 @@
+I"�
+<div class="event">
+<div class="row">
+<div class="col-auto">
+<div class="icons border-top border-bottom">
+
+</div>
+</div>
+</div>
+<div class="row">
+<div class="main col-12 col-md-8">
+
+      <p style="font-size: larger; font-weight: bold;">A capability-based authorization infrastructure for distributed High Throughput Computing</p>
+
+      <p>The OSG Consortium provides researchers with the ability to bring their distributed high throughput computing (dHTC) workloads to a pool of resources consisting 
+of hardware across approximately 100 different sites. Using this “Open Science Pool” resource, projects can leverage the opportunistic access, dedicated hardware, or allocated time at large-scallel NSF-funded resources.</p>
+
+      <p>While dHTC can be a powerful tool to advance scientific discovery, managing trust relationships with so many sites can be challenging; the OSG helps bootstrap the 
+trust relationships between project and provider. Further, authorization in the OSG ecosystem is an evolving topic. On the national and international 
+infrastructure, we are leading the transition from identity-based authorization –– basing decisions on “who you are” –– to capability based authorization. 
+Capability-based authorization focuses on “what can you do?” and is implemented through tools like bearer tokens. Changing the mindset of an entire ecosystem is 
+wide-ranging work, involving dedicated projects such as the new NSF-funded “SciAuth” and international partners like the Worldwide LHC Computing Grid.</p>
+
+      <p>In this talk, we’ll cover the journey of the OSG to a capability-based authorization as well as the challenges and opportunities of changing trust models for a 
+functioning infrastructure.</p>
+
+      <p><strong>About the speaker</strong></p>
+
+      <figure class="figure" style="
+    float: right;
+    margin-left: 20px;
+">
+<img src="/assets/images/events/bockelman-smaller.jpeg" class="figure-img img-fluid rounded" alt="BrianBockelman" />
+<figcaption class="figure-caption">Brian Bockelman</figcaption>
+</figure>
+
+      <p>Brian Bockelman is a Principal Investigator at the Morgridge Institute for Research and co-PI on the Partnership to Advance Throughput Computing (PATh) 
+and Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP).  Within the OSG, he leads the Technology Area, which provides the 
+software and technologies that underpin the OSG fabric of services.  He is also a co-PI on the new SciAuth project, led by Jim Basney, which aims to coordinate 
+the deployment of capability-based authorization across the science and engineering cyberinfrastructure.</p>
+
+      <p>Before joining Morgridge, Bockelman received a joint PhD in Mathematics and Computer Science from the University of Nebraska-Lincoln (UNL) and was an integral 
+member of the Holland Computing Center at UNL.  His team helps advance Research Computing activities at Morgridge and are partners within the Center for High 
+Throughput Computing (CHTC) at University of Wisconsin-Madison.</p>
+
+      <p><strong>About Trusted CI</strong></p>
+
+      <p>This talk is organized by <a href="https://www.trustedci.org/">Trusted CI</a>, an NSF Cybersecurity Center of Excellence with the mission of improving the cybersecurity of NSF computational science 
+and engineering projects and allowing those projects to focus on their science endeavors. <a href="https://www.trustedci.org/webinars">The webinar series</a> aims to provide readily available cybersecurity 
+services tailored to the NSF science community. A recording of the webinar will be available <a href="https://www.trustedci.org/webinars">here</a> for later viewing.</p>
+
+    </div>
+<div class="subsection col-12  col-md-4">
+
+      <h1 id="when">When</h1>
+
+      <p>Monday, July 26th at 11:00am ET</p>
+
+      <h1 id="where">Where</h1>
+
+      <p>Virtual webinar on zoom</p>
+
+      <h1 id="registration">Registration</h1>
+      <p>Register Over.</p>
+
+    </div>
+</div>
+<div class="row">
+<div class="col-12">
+
+    </div>
+</div>
+</div>
+
+:ET

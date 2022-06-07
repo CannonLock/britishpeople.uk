@@ -1,0 +1,30 @@
+I"[<p><strong>HTCondor Week May 24-28, 2021</strong></p>
+
+<p>HTCondor Week 2021 will be a free, virtual event. <a href="https://agenda.hep.wisc.edu/event/1579/">Registration is open.</a> You can view the detailed schedule here: <a href="https://agenda.hep.wisc.edu/event/1579/timetable/#20210524.detailed">https://agenda.hep.wisc.edu/event/1579/timetable/#20210524.detailed</a></p>
+
+<p>Among the many interesting speakers are:</p>
+
+<ul>
+  <li>
+    <p><a href="https://dho.pathology.wisc.edu/">David O’Connor</a> speaking about “Accelerating SARS-CoV-2 variant sequencing with HTCondor”</p>
+  </li>
+  <li>
+    <p>Pedro Mendes discussing <a href="https://agenda.hep.wisc.edu/event/1579/contributions/23045/">“Running COPASI biochemical simulations with HTCondor”</a>, and</p>
+  </li>
+  <li>
+    <p>David Lamarche talking on <a href="https://agenda.hep.wisc.edu/event/1579/contributions/23044/">“HTCondor in a Digitization Workflow : Helping Preserve Cultural Heritage</a></p>
+  </li>
+</ul>
+
+<p>HTCondor is an open source distributed computing software and related technologies to enable scientists and engineers to increase their computing throughput via the Open Source Grid. <a href="https://research.cs.wisc.edu/htcondor/">Learn more about HTCondor</a></p>
+
+<figure class="figure">
+  <img src="/assets/images/team-2020.jpg" class="figure-img img-fluid rounded" alt="HTCondorTeam" />
+  <figcaption class="figure-caption">HTCondor Team 2020.</figcaption>
+</figure>
+
+<h2 id="contacts">Contacts</h2>
+
+<p>For questions or comments, please email
+<a href="mailto:events@opensciencegrid.org">our events mailing list</a>.</p>
+:ET

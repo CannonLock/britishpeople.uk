@@ -1,0 +1,44 @@
+I"ã<p>&lt;!doctype html&gt;</p>
+<html lang="en-US">
+<head data-proofer-ignore="">
+    
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="icon" href="/favicon.ico" />
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Iframe | OSG</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Iframe" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A national, distributed computing partnership for data-intensive research" />
+<meta property="og:description" content="A national, distributed computing partnership for data-intensive research" />
+<link rel="canonical" href="http://0.0.0.0:8004/organization/iframe.html" />
+<meta property="og:url" content="http://0.0.0.0:8004/organization/iframe.html" />
+<meta property="og:site_name" content="OSG" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-06-06T11:30:08-05:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Iframe" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-06-06T11:30:08-05:00","datePublished":"2022-06-06T11:30:08-05:00","description":"A national, distributed computing partnership for data-intensive research","headline":"Iframe","mainEntityOfPage":{"@type":"WebPage","@id":"http://0.0.0.0:8004/organization/iframe.html"},"url":"http://0.0.0.0:8004/organization/iframe.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+
+
+<!-- Bootstrap 5 -->
+<link rel="stylesheet" href="/assets/css/style.css?v=" />
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="/assets/js/bootstrap.bundle.min.js"></script>
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin="" />
+</head></html>
+:ET

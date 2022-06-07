@@ -1,0 +1,62 @@
+I"$
+<div class="event">
+<div class="row">
+<div class="col-auto">
+<div class="icons border-top border-bottom">
+
+</div>
+</div>
+</div>
+<div class="row">
+<div class="main col-12 col-md-8">
+
+      <p style="font-size: larger; font-weight: bold;">Join us March 15 for our Site Admin Office Hours!</p>
+
+      <p>We will be hosting our second Site Admin Office Hours, Tuesday. March 15 from 3:30 - 5:30 PM CT offered by the Partnership to Advance Throughput Computing (PATh). The Office Hours are being held in conjunction with the <a href="https://indico.fnal.gov/event/53029/registrations/3257/">All-Hands Meeting 2022</a>.
+The office hours provide an opportunity for any system administrator to work with the OSG Software and Operations teams on pressing site configuration or troubleshooting issues. All site admins or site representatives sharing resources, using OSG services or running an Access Point are encouraged to attend.</p>
+
+      <p>You do not need to register for the All-Hand Meeting to attend the Site Admin Office Hours, but we encourage you to do so. If you have already registered for the All-Hands Meeting, then you do not also need to register for the Office Hours. However, if you are ONLY attending the Office Hours event, then you do need to register and complete a brief survey to attend.</p>
+
+      <p>While there is no fee, registration and completion of this brief survey is required for participants who have not registered for the All Hands Meeting 2022 to receive connection information. Seats are limited.
+Please <a href="https://docs.google.com/forms/d/1wUu3czRT_0Ask6rDW79QqrkQzyzR8ksyNM6uqWTOYXc//viewform">register here.</a></p>
+
+      <p>Site Admin Office Hours will begin with a very short presentation on “How the Hosted Compute Entry point (“CE”) Interacts with Sites.” You’ll also have a chance to get your burning questions of the day answered. We will be hosting breakout rooms for troubleshooting and finishing any site configurations. If you have any open tickets you’d like to discuss with OSG staff, we especially encourage you to attend.</p>
+
+    </div>
+<div class="subsection col-12  col-md-4">
+
+      <h3 id="who">Who</h3>
+
+      <p>All site admins or site representatives sharing resources, using OSG services or running an Access Point.</p>
+
+      <h3 id="when">When</h3>
+
+      <p>Tuesday, March 15 from 3:30 - 5:30 PM CT</p>
+
+      <h3 id="where">Where</h3>
+
+      <p>Virtual</p>
+
+      <h3 id="fees">Fees</h3>
+
+      <p>No fees, attendance is free!</p>
+
+      <h3 id="registration">Registration</h3>
+
+      <p>Registration and completion of this brief survey is required for participants who are not registered for the All-Hands Meeting to receive connection information. Seats are limited.
+Please <a href="https://docs.google.com/forms/d/1wUu3czRT_0Ask6rDW79QqrkQzyzR8ksyNM6uqWTOYXc//viewform">register here.</a></p>
+
+      <h3 id="questions">Questions?</h3>
+
+      <p>Contact us at <a href="mailto:events@opensciencegrid.org">events@opensciencegrid.org</a>.</p>
+
+    </div>
+</div>
+<div class="row">
+<div class="col-12">
+
+    </div>
+</div>
+</div>
+
+:ET

@@ -1,0 +1,69 @@
+I"�<p><em>OSG is a consortium dedicated to the advancement of open science via the 
+practice of distributed High Throughput Computing, and the advancement of 
+its state of the art.</em></p>
+
+<p><strong>The OSG Consortium</strong> builds and operates a set of <strong>pools of shared computing and 
+data capacity for distributed high-throughput computing (dHTC)</strong>. Each pool is 
+organized and operated to serve a particular research community (e.g. a campus, 
+multi-institutional collaboration, etc.), using technologies and 
+services provided by the core OSG Team. One of these pools, known as the 
+<strong><a href="/services/open_science_pool.html">Open Science Pool</a></strong> is operated for all of US-associated 
+open science. The Consortium, thus, represents the totality of all researchers, 
+resources, individuals and institutions that benefit from or contribute to any 
+of the OSG Fabric of Services (further below).</p>
+
+<p><strong><a href="https://opensciencegrid.org/council/">The OSG Council</a></strong> governs the consortium ensuring that the OSG benefits 
+the scientific mission of its stakeholders: the research communities, organizations 
+that provide resources and services for them, including funding resources.</p>
+
+<p><strong><a href="https://opensciencegrid.org/management/">The Executive Team</a></strong> manages the core <strong><a href="/about/team/">OSG Team</a></strong>, with 
+team members from various institutions organized into Areas that provide core OSG 
+technologies and services required to operate pools in support of research communities. 
+As of January 2022, the OSG Team is funded primarily via the <a href="https://path-cc.io/">PATh</a> (NSF #2030508), 
+<a href="https://iris-hep.org/">IRIS-HEP</a> (NSF #1836650) projects, and in kind contributions from multiple entities, 
+including DOE national laboratories.</p>
+
+<h2 id="distributed-high-throughput-computing">Distributed High Throughput Computing</h2>
+
+<p><strong>High-throughput computing (HTC)</strong> is the execution of computational work in the form 
+of numerous, self-contained tasks to optimize their overall completion across 
+available computing resources. Specialized by the OSG, <strong>distributed high-throughput 
+computing (dHTC)</strong> involves the operation of HTC-optimized infrastructure across
+many independent, collaborating administrative domains.</p>
+
+<h2 id="the-osg-fabric-of-services">The OSG Fabric of Services</h2>
+
+<p>The OSG provides various open-source software, other technologies, and services 
+for researchers and research organizations to support their dHTC compute requirements. 
+Our software and technologies allow research organizations to build dHTC systems 
+at-scale from shared computing and data resources, and to make these resources 
+available to researchers within virtual clusters (what the OSG calls “<strong>pools</strong>”).</p>
+
+<p>Some pools or participating organizations provide application-specific interfaces
+or datasets, such that end-users may not even be aware of integration with 
+OSG and its services/technologies. Many OSG technologies and services are 
+based upon or directly leverage the <strong><a href="https://htcondor.org/">HTCondor Software Suite (HTCSS)</a></strong>, in addition
+to other open-source tools that enable shared computing and data capabilities. 
+These can be deployed by a research organization to create their own dHTC pool 
+across participating compute and data components, making their federated capacity 
+available to the researchers they serve.</p>
+
+<h3 id="osg-technologies-and-services">OSG Technologies and Services</h3>
+
+<p>The OSG’s <strong><a href="https://gracc.opensciencegrid.org/d/000000074/gracc-home?orgId=1&amp;search=open&amp;folder=current">Global Research Accounting (GRACC)</a></strong> system provides metrics of capacity 
+contributions and usage across reporting OSG pools, including specific metrics 
+for participating institutions and research projects, some of which represent 
+hundreds or thousands of individual users.</p>
+
+<p><strong><a href="/services/open_science_pool.html">The Open Science Pool (OSPool)</a></strong> provides dHTC capacity for research projects 
+associated with a US-based academic, government, or non-profit organization,
+and with funding from the National Science Foundation through the PATh project
+(NSF #2030508). Applicable researchers can obtain access to OSPool resources 
+via an access point operated by their institution or collaboration, or via the
+<strong><a href="https://connect.osg-htc.org/">OSG Connect service</a></strong>.</p>
+
+<p>Learn more about <a href="/about/organization/">other OSG Pools, who contributes, and who uses them</a>.</p>
+
+<p>Specific OSG Softwares are described in the <a href="https://opensciencegrid.org/docs/">OSG Site Admin documentation</a>.</p>
+
+:ET

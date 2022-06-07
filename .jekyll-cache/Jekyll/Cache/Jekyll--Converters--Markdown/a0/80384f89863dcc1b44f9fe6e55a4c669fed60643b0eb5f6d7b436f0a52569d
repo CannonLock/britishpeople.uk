@@ -1,0 +1,36 @@
+I"�<p><em>We consider the consortium to be the totality of all researchers, resources, individuals and institutions that benefit from or contribute to any of the OSG fabric of services.</em></p>
+
+<h2 id="pools-in-the-osg">Pools in the OSG</h2>
+
+<p>Each of the more than 20 OSG pools (previously “virtual organizations” or “VOs”)
+consists of computing and data capacity operated via OSG and <a href="https://htcondor.org">HTCSS</a> technologies 
+and services, as well as any additional resources and services provided by/for 
+the pool’s relevant research community.</p>
+
+<p><strong><a href="https://gracc.opensciencegrid.org/d/000000043/pilot-jobs-summary?orgId=1&amp;from=now-1y&amp;to=now&amp;var-VOName=All&amp;var-Facility=All&amp;var-ExitCode=All&amp;var-Probe=All&amp;var-interval=7d">A list of OSG pools and compute usage within each is available in the OSG’s Accounting System (GRACC)</a>.</strong></p>
+
+<p><em>The OSG Team operates the <a href="/services/open_science_pool.html">Open Science Pool (OSPool)</a></em> for use by research projects 
+associated with a US-based academic, government, or non-profit organization, 
+and with funding from the National Science Foundation through the NSF PATh 
+project (NSF #2030508). Applicable researchers can obtain access to OSPool 
+resources via an associated access point operated by their institution or 
+collaboration, or via the <a href="https://connect.osg-htc.org/">OSG Connect service</a>. Institutions can contribute 
+capacity to the OSPool (and other pools) by becoming an <a href="https://opensciencegrid.org/docs/site-planning/">OSG Site</a>.</p>
+
+<p>Other pools within the OSG are operated by/for the research communities they 
+serve, often with their own (private) access points, documentation, policies, 
+etc., separate from those pertaining to using and contributing to the OSPool. 
+Some pool communities or participating organizations provide application-specific 
+interfaces or datasets, such that end-users may not even be aware of integration 
+with OSG and its services/technologies. Some pools share capacity with one another, 
+and organizations can contribute resources to more than one pool. If you’re interested
+in supporting the Open Science Pool, specific projects, or any pool/research 
+community, contact us at <a href="mailto:support@opensciencegrid.org">support@opensciencegrid.org</a>.</p>
+
+<h2 id="research-projects-with-accounted-usage-across-osg-pools">Research Projects with Accounted Usage Across OSG Pools</h2>
+<p><a href="/projects.html">OSG Projects active in the last year</a>
+<a href="https://gracc.opensciencegrid.org/d/000000037/payload-jobs-summary">View OSG Project and usage here</a>.</p>
+
+<h2 id="facilities-contributing-accounted-resources-across-osg-pools">Facilities Contributing Accounted Resources Across OSG Pools</h2>
+<p><a href="https://gracc.opensciencegrid.org/d/000000043/pilot-jobs-summary?orgId=1">View Facility contributions here</a>.</p>
+:ET

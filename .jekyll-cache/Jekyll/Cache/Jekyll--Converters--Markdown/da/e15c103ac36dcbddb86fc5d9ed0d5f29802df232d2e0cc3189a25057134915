@@ -1,0 +1,20 @@
+I"x<figure>
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/Hannah-Showcase.jpg" alt="Brain Model" />
+  <figcaption class="figure-caption">Image by Robina Weermeijer on Unsplash<br /></figcaption>
+</figure>
+
+<p>During the <a href="https://path-cc.io/news/2021-08-19-Showcase/">OSG School Showcase</a>, Hannah Moshontz, a postdoctoral fellow at UW-Madison’s Department of Psychology, described her experience of using high throughput computing (HTC) for the very first time, when taking on an entirely new project within the field of psychology. While Hannah’s research generally focuses on understanding goal pursuit in everyday life, she and her colleagues had noticed that  there seemed to be a lack of “best practices” for evaluating the quality of results from the field’s recent integration of machine learning approaches.</p>
+
+<p>Describing the motivation behind the project, Hannah explains: “We were seeing a lot of published papers in top outlets that were incorrectly understanding and interpreting cross-validated model performance estimates. These models were described as usable for making diagnoses and clinical decisions.” This project, a simulation study, aimed to understand cross-validated performance estimates in psychology, and give guidance on how future psychological science researchers should use cross validation in their data.</p>
+
+<p>While a typical machine learning study entails running tens of thousands models –– Hannah’s study required 144,000 times this number in order to evaluate results from numerous studies. With the total estimated compute time for the project being over one million hours, Hannah understood from the beginning that “high throughput computing was going to be essential.”</p>
+
+<p>The <a href="https://chtc.cs.wisc.edu/">Center for High Throughput Computing</a> at UW-Madison worked with Hannah to help get her team’s simulations distributed on the <a href="https://opensciencegrid.org/about/open_science_pool/">Open Science Pool</a>. Hannah used the programming software R to simulate data and train, select, and evaluate machine learning models. The output from each simulation batch came in the form of a zipped file that included a summary of the best model performance along with information about the model. Throughout the process, Hannah and her team tracked jobs in a spreadsheet to stay organized.</p>
+
+<p>Reflecting on the impact of HTC on the study as a whole, she reasons, “without HTC, we couldn’t have conducted this study in my lifetime.” While this project was Hannah’s first taste of HTC, today she’s integrated it into many different facets of her work.</p>
+
+<p>…</p>
+
+<p><em>This article is part of a <a href="https://path-cc.io/news/2021-08-19-Showcase/">series of articles</a> from the 2021 OSG Virtual School Showcase. <a href="https://opensciencegrid.org/virtual-school-2021/">OSG School</a> is an annual education event for researchers who want to learn how to use distributed high throughput computing methods and tools. The Showcase, which features researchers sharing how HTC has impacted their work, is a highlight of the school each year.</em></p>
+
+:ET
